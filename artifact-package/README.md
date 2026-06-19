@@ -23,6 +23,7 @@ The Codex thread-automation idea is a reusable Agent OS lens: sensors, processes
 
 ## Generated artifacts
 - Prototype: [[Agent OS Thread Orchestration Kit/Agent OS Thread Map]]
+- Decision gate: [[Agent OS Thread Orchestration Kit/Agent OS Promotion Decision Card]]
 - Infographic: [[Agent OS Thread Orchestration Kit/Agent OS Loop Diagram]]
 - Skill draft: [[agent-os-thread-orchestration/SKILL]]
 - Improvement loop: [[Agent OS Thread Orchestration Kit Loop]]
@@ -38,11 +39,12 @@ Drafted under `Artifacts/Skills/agent-os-thread-orchestration/SKILL.md`; keep as
 
 ## Improvement backlog
 - [ ] Run the first real trial and attach screenshots, logs, repo links, or generated outputs.
-- [ ] Add a promotion decision card after the first evidence packet is filled.
+- [x] Add a promotion decision card after the first evidence packet is filled.
 - [ ] Patch the skill draft only after evidence shows the workflow works.
 
 ## GitHub repo
 https://github.com/vinayclawagent-art/agent-os-thread-orchestration-kit
 
 ## Change log
+- 2026-06-19: Added a fillable promotion decision card so future thread-map evidence can be converted into a promote / pilot-only / iterate / hold decision before any README, prototype, or skill claims change.
 - 2026-06-19: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.

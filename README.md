@@ -11,12 +11,12 @@ Inspired by: https://x.com/nickbaumann_/status/2067396086252372465
 - Keeps a draft skill separate until evidence proves reuse.
 
 ## Quickstart
-Open `prototype/Agent OS Thread Map.md`, fill it during a real task, and attach proof before changing claims.
+Open prototype/Agent OS Thread Map.md, fill it during a real task, then complete prototype/Agent OS Promotion Decision Card.md before changing claims.
 
 ## Latest status
-Template-ready, not validated. Latest improvement: first-trial packet and GitHub mirror created on 2026-06-19.
+Template-ready, not validated. Latest improvement: promotion decision card added on 2026-06-19 so future thread-map evidence can be converted into a promote / pilot-only / iterate / hold decision.
 
 ## Roadmap
-- Fill the first trial packet.
-- Add a promotion decision card.
-- Promote or retire the skill draft after evidence exists.
+- Fill the first trial packet with real proof.
+- Complete the promotion decision card.
+- Promote, pilot, iterate, or hold only after evidence exists.
