@@ -11,10 +11,13 @@ Inspired by: https://x.com/nickbaumann_/status/2067396086252372465
 - Keeps a draft skill separate until evidence proves reuse.
 
 ## Quickstart
-Open prototype/Agent OS Thread Map.md, fill it during a real task, then complete prototype/Agent OS Promotion Decision Card.md before changing claims.
+Open prototype/Trial Operator Handoff Checklist.md first, then fill prototype/Agent OS Thread Map.md during a real task, complete prototype/Agent OS Promotion Decision Card.md, and finish prototype/Agent OS Post-Trial Debrief Template.md before changing claims.
 
 ## Latest status
-Template-ready, not validated. Latest improvement: 2026-06-20 added Agent OS Post-Trial Debrief Template as the post-trial evidence-to-patch gate; evidence pending.
+Template-ready, not validated. Latest improvement: 2026-06-20 added Trial Operator Handoff Checklist as the operator-ready sequence for the thread map, promotion card, and debrief; evidence pending.
+
+## Next focus
+Use the handoff checklist for the next real trial and patch README/prototype/skill claims from evidence only.
 
 ## Roadmap
 - Fill the first trial packet with real proof.
