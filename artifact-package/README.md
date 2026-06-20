@@ -6,7 +6,7 @@ source_url: "https://x.com/nickbaumann_/status/2067396086252372465"
 score: 9
 artifact_tracks: [prototype, infographic, skill, improvement-loop]
 improvement_cadence: nightly
-last_improved: 2026-06-19
+last_improved: 2026-06-20
 github_repo: "https://github.com/vinayclawagent-art/agent-os-thread-orchestration-kit"
 tags: [artifact-package, x-intel, agent-os, orchestration, codex]
 ---
@@ -37,6 +37,8 @@ Explain the source idea as a compact workflow Vinay can scan from Obsidian or Gi
 ## Skill candidate
 Drafted under `Artifacts/Skills/agent-os-thread-orchestration/SKILL.md`; keep as draft until a real trial proves the procedure is reusable and non-duplicative.
 
+- Post-trial debrief: [[Agent OS Thread Orchestration Kit/Agent OS Post-Trial Debrief Template|Agent OS Post-Trial Debrief Template]]
+
 ## Improvement backlog
 - [ ] Run the first real trial and attach screenshots, logs, repo links, or generated outputs.
 - [x] Add a promotion decision card after the first evidence packet is filled.
@@ -48,3 +50,4 @@ https://github.com/vinayclawagent-art/agent-os-thread-orchestration-kit
 ## Change log
 - 2026-06-19: Added a fillable promotion decision card so future thread-map evidence can be converted into a promote / pilot-only / iterate / hold decision before any README, prototype, or skill claims change.
 - 2026-06-19: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.
+- 2026-06-20: Added [[Agent OS Thread Orchestration Kit/Agent OS Post-Trial Debrief Template|Agent OS Post-Trial Debrief Template]] as the evidence-to-patch debrief gate; prepared, not validated.

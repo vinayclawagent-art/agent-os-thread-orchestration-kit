@@ -5,8 +5,8 @@ source_note: "[[Codex Threads as an Agent Operating System]]"
 package: "[[Agent OS Thread Orchestration Kit]]"
 github_repo: "https://github.com/vinayclawagent-art/agent-os-thread-orchestration-kit"
 cadence: nightly
-last_improved: 2026-06-19
-next_focus: "Run [[Agent OS Thread Orchestration Kit/Agent OS Thread Map]] on one real task, attach proof links, then complete [[Agent OS Thread Orchestration Kit/Agent OS Promotion Decision Card]] before changing README/prototype/skill claims."
+last_improved: 2026-06-20
+next_focus: "Run the next real trial, fill [[Agent OS Thread Orchestration Kit/Agent OS Post-Trial Debrief Template]], then patch README/prototype/skill claims from evidence only."
 tags: [improvement-loop, x-artifact-factory]
 ---
 
@@ -20,7 +20,7 @@ Prototype: [[Agent OS Thread Orchestration Kit/Agent OS Thread Map]]
 Template-ready, not validated. The package, prototype packet, promotion decision card, infographic, skill draft, and GitHub repo mirror exist.
 
 ## Next focus
-Run [[Agent OS Thread Orchestration Kit/Agent OS Thread Map]] on one real task, attach proof links, then complete [[Agent OS Thread Orchestration Kit/Agent OS Promotion Decision Card]] before changing README/prototype/skill claims.
+Run the next real trial, fill [[Agent OS Thread Orchestration Kit/Agent OS Post-Trial Debrief Template]], then patch README/prototype/skill claims from evidence only.
 
 ## Evidence needed
 - Real input/example.
@@ -31,3 +31,4 @@ Run [[Agent OS Thread Orchestration Kit/Agent OS Thread Map]] on one real task, 
 ## Change log
 - 2026-06-19: Added [[Agent OS Thread Orchestration Kit/Agent OS Promotion Decision Card]] as the post-trial decision gate; prepared, not validated.
 - 2026-06-19: Created loop and first artifact packet; prepared, not validated.
+- 2026-06-20: Added [[Agent OS Thread Orchestration Kit/Agent OS Post-Trial Debrief Template]] as the post-trial evidence-to-patch debrief gate; prepared, not validated.

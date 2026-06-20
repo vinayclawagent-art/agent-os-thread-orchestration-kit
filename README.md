@@ -14,7 +14,7 @@ Inspired by: https://x.com/nickbaumann_/status/2067396086252372465
 Open prototype/Agent OS Thread Map.md, fill it during a real task, then complete prototype/Agent OS Promotion Decision Card.md before changing claims.
 
 ## Latest status
-Template-ready, not validated. Latest improvement: promotion decision card added on 2026-06-19 so future thread-map evidence can be converted into a promote / pilot-only / iterate / hold decision.
+Template-ready, not validated. Latest improvement: 2026-06-20 added Agent OS Post-Trial Debrief Template as the post-trial evidence-to-patch gate; evidence pending.
 
 ## Roadmap
 - Fill the first trial packet with real proof.
