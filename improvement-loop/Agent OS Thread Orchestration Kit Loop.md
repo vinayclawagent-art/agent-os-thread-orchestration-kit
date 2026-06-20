@@ -6,7 +6,7 @@ package: "[[Agent OS Thread Orchestration Kit]]"
 github_repo: "https://github.com/vinayclawagent-art/agent-os-thread-orchestration-kit"
 cadence: nightly
 last_improved: 2026-06-20
-next_focus: "Run the next real thread-orchestration trial, fill [[Agent OS Thread Orchestration Kit/Agent OS Evidence Quality Rubric]], then complete the promotion card and debrief before patching claims."
+next_focus: "Run the next real thread-orchestration trial, fill [[Agent OS Thread Orchestration Kit/Trial Evidence Index]] and [[Agent OS Thread Orchestration Kit/Agent OS Evidence Quality Rubric]], then complete the promotion card and debrief before patching claims."
 tags: [improvement-loop, x-artifact-factory]
 ---
 
@@ -17,10 +17,10 @@ Package: [[Agent OS Thread Orchestration Kit]]
 Prototype: [[Agent OS Thread Orchestration Kit/Agent OS Thread Map]]
 
 ## Current state
-Template-ready, not validated. The package, prototype packet, promotion decision card, post-trial debrief, trial operator handoff checklist, evidence quality rubric, infographic, skill draft, and GitHub repo mirror exist.
+Template-ready, not validated. The package, prototype packet, promotion decision card, post-trial debrief, trial operator handoff checklist, trial evidence index, evidence quality rubric, infographic, skill draft, and GitHub repo mirror exist.
 
 ## Next focus
-Run the next real thread-orchestration trial, fill [[Agent OS Thread Orchestration Kit/Agent OS Evidence Quality Rubric]], then complete the promotion card and debrief before patching claims.
+Run the next real thread-orchestration trial, fill [[Agent OS Thread Orchestration Kit/Trial Evidence Index]] and [[Agent OS Thread Orchestration Kit/Agent OS Evidence Quality Rubric]], then complete the promotion card and debrief before patching claims.
 
 ## Evidence needed
 - Real input/example.
@@ -29,6 +29,7 @@ Run the next real thread-orchestration trial, fill [[Agent OS Thread Orchestrati
 - Promote / iterate / hold decision.
 
 ## Change log
+- 2026-06-20: Added [[Agent OS Thread Orchestration Kit/Trial Evidence Index]] to map future proof artifacts to exact claim patches; template-ready/evidence-pending, not validated.
 - 2026-06-20: Added [[Agent OS Thread Orchestration Kit/Agent OS Evidence Quality Rubric]] to grade future proof before any claim patches; template-ready/evidence-pending, not validated.
 - 2026-06-20: Added [[Agent OS Thread Orchestration Kit/Trial Operator Handoff Checklist]] to sequence the next real trial; prepared/operator-ready, not validated.
 - 2026-06-19: Added [[Agent OS Thread Orchestration Kit/Agent OS Promotion Decision Card]] as the post-trial decision gate; prepared, not validated.

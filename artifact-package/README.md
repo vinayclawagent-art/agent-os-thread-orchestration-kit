@@ -25,6 +25,7 @@ The Codex thread-automation idea is a reusable Agent OS lens: sensors, processes
 - Prototype: [[Agent OS Thread Orchestration Kit/Agent OS Thread Map]]
 - Decision gate: [[Agent OS Thread Orchestration Kit/Agent OS Promotion Decision Card]]
 - Operator handoff: [[Agent OS Thread Orchestration Kit/Trial Operator Handoff Checklist]]
+- Evidence index: [[Agent OS Thread Orchestration Kit/Trial Evidence Index]]
 - Evidence gate: [[Agent OS Thread Orchestration Kit/Agent OS Evidence Quality Rubric]]
 - Infographic: [[Agent OS Thread Orchestration Kit/Agent OS Loop Diagram]]
 - Skill draft: [[agent-os-thread-orchestration/SKILL]]
@@ -45,6 +46,7 @@ Drafted under `Artifacts/Skills/agent-os-thread-orchestration/SKILL.md`; keep as
 - [ ] Run the first real trial and attach screenshots, logs, repo links, or generated outputs.
 - [x] Add a promotion decision card after the first evidence packet is filled.
 - [x] Add a trial operator handoff checklist to sequence packet, proof capture, promotion gate, and debrief.
+- [x] Add a trial evidence index to map future proof to claim patches.
 - [ ] Grade future trial proof with [[Agent OS Thread Orchestration Kit/Agent OS Evidence Quality Rubric]] before patching claims.
 - [ ] Patch the skill draft only after evidence shows the workflow works.
 
@@ -52,6 +54,7 @@ Drafted under `Artifacts/Skills/agent-os-thread-orchestration/SKILL.md`; keep as
 https://github.com/vinayclawagent-art/agent-os-thread-orchestration-kit
 
 ## Change log
+- 2026-06-20: Added [[Agent OS Thread Orchestration Kit/Trial Evidence Index]] so future trial evidence is mapped to exact claim patches before any README/prototype/skill wording changes; template-ready and evidence-pending.
 - 2026-06-20: Added [[Agent OS Thread Orchestration Kit/Agent OS Evidence Quality Rubric]] so future trial proof is graded before README/prototype/skill-draft claims change; template-ready and evidence-pending.
 - 2026-06-20: Added [[Agent OS Thread Orchestration Kit/Trial Operator Handoff Checklist|Trial Operator Handoff Checklist]] so the next operator can run the packet, promotion card, and debrief in order; prepared, not validated.
 - 2026-06-19: Added a fillable promotion decision card so future thread-map evidence can be converted into a promote / pilot-only / iterate / hold decision before any README, prototype, or skill claims change.
